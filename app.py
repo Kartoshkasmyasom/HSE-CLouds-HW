@@ -3,7 +3,6 @@ import sqlite3
 
 app = Flask(__name__)
 
-#пум пум пум пум пум
 @app.route('/')
 def index():
     workspace = sqlite3.connect('todo.db')
