@@ -2,8 +2,8 @@
 
 ## Как запустить проект
    ```bash
-   git clone https://github.com/Kartoshkasmyasom/CLoud-tehcnology-hse-individual-project
-   cd CLoud-tehcnology-hse-individual-project
+   git clone https://github.com/Kartoshkasmyasom/HSE-CLouds-HW
+   cd HSE-CLouds-HW
    docker-compose up --build
 ```
 
