@@ -1,0 +1,10 @@
+body {
+    background-color: #f8f9fa;
+}
+.list-group-item {
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.text-decoration-line-through {
+    text-decoration: line-through;
+}
